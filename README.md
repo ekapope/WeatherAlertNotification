@@ -13,7 +13,7 @@ Since you are checking emails and social media anyway, do not waste your time ch
 ### Here are requirements for the setup:
 
 - Python 3.6 with Pandas and Tweepy packages installed
-- [AccuWeather developer account]( https://developer.accuweather.com/packages)
+- [AccuWeather developer account](https://developer.accuweather.com/packages)
 - [Setup your Gmail to 'less secure' status](https://myaccount.google.com/lesssecureapps?pli=1)
 - [Twitter developer account](https://developer.twitter.com/)
 
