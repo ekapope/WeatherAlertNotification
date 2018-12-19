@@ -10,6 +10,11 @@ What if you have a customized weather alert which will only automatically send y
 
 Since you are checking emails and social media anyway, do not waste your time checking the weather on the separated app. It is now live on your mail box and twitter feed!
 
+Example screenshots:
+![Outlook_Screenshot](https://github.com/ekapope/WeatherAlertNotification/blob/master/Capture_Emails.PNG)
+
+![Twitter_Screenshot](https://github.com/ekapope/WeatherAlertNotification/blob/master/Capture_Tweets.PNG)
+
 ### Here are requirements for the setup:
 
 - Python 3.6 with Pandas and Tweepy packages installed
