@@ -2,7 +2,7 @@
 
 ## Why do you need this?
 
-What are your morning routines? [Research](https://blogs.constantcontact.com/smartphone-usage-statistics/#) shows that 80% of smartphone user check their phone within 15 minutes after waking up in the morning. Some of you may check the news, emails, weather forecast or social media(s).
+What are your morning routines? [Research](https://blogs.constantcontact.com/smartphone-usage-statistics/#) shows that 80% of smartphone users check their phone within 15 minutes after waking up in the morning. Some of you may check the news, emails, weather forecast or social media(s).
 
 Won't it be wonderful if you have one less thing to worry in the morning?
 
